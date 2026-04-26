@@ -8,3 +8,4 @@ disasterroute.db
 dist/
 build/
 .DS_Store
+cache/
